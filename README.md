@@ -21,6 +21,7 @@ Custom made discord Raiding tool only using python 3.9
 - Python 3
 - Discord Tokens
 
+
 Libraries:
 - colorama
 - numpy
