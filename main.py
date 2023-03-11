@@ -16,7 +16,7 @@ import pyfiglet
 from pynput import keyboard
 import threading
 from traceback import format_exc
-from pycoloring import color
+from pycolorings import color
 from typing import Union
 from colorama import Back, Fore, Style
 from tasksio import TaskPool
