@@ -1,6 +1,6 @@
 emoji
 easygui
 pyfiglet
-pycoloring
+pycolorings
 asyncio
 pynput
